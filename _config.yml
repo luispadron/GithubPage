@@ -1,0 +1,16 @@
+title: Luis Padron
+tagline: Yet Another Blog
+description: 🧠 🚀 ✍️
+url: http://luispadron.com
+baseurl: /
+
+author:
+  name: Luis Padron
+  url: https://www.linkedin.com/in/heyluis
+
+github: 
+  repo: https://github.com/luispadron/luispadron
+
+permalink: pretty
+paginate: 2
+version: 1.0
